@@ -1,2 +1,3 @@
 # Linear-Regression
-Linear Regression Machine learning model
+Linear Regression Machine Learning model
+-Author Neshma Vaishnavi
